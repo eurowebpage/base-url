@@ -9,7 +9,7 @@ include(BASE_URL . 'url.php');
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Base url test</title>
-<?php include(BASE_URL . 'include/head.php'); ?>
+<?php include(BASE_URL . 'head.php'); ?>
 </head>
 
 <body>
@@ -40,6 +40,6 @@ include(BASE_URL . 'url.php');
 
 
 
-<?php include(BASE_URL . 'include/footer.php'); ?>
+<?php include(BASE_URL . 'footer.php'); ?>
 </body>
 </html>
